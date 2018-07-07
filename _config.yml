@@ -105,7 +105,7 @@ markdown: kramdown
 #sass:
 #  style: compressed
 exclude: ['site.bat','compose.rb','README.md']
-include: ['_pages','.htaccess']
+include: ['_pages','_topics','.htaccess']
 defaults:
   - scope:
       path: _pages
@@ -123,12 +123,12 @@ defaults:
   - scope:
       path: _topics
     values:
-      layout: post
+      layout: page
 
 collections:
   topics:
     output: true
-    permalink: /topics/:name
+    permalink: /topics/:path/
 # to initialize arrays in assignments (assign myarr = site.empty_array)
 # (easier to grok than assign myarr = '' | split',')
 empty_array: []
