@@ -1,13 +1,14 @@
 ---
 priority: 0.6
 title: Financial software development
-excerpt: Full development lifecycle in C#, WPF, MVVM, SQL, R, VBA 
+excerpt: Full development lifecycle in  C#, Matlab, R, WPF, SQL and VBA 
 categories: interests
 background-image: works-sample.png
 tags:
   - C#
-  - WPF
+  - Matlab
   - R
+  - WPF
   - SQL
   - VBA
 ---

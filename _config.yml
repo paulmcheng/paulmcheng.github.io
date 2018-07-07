@@ -120,12 +120,15 @@ defaults:
       path: _drafts
     values:
       layout: post
-
+  - scope:
+      path: _topics
+    values:
+      layout: post
 
 collections:
-  collections:
+  topics:
     output: true
-
+    permalink: /topics/:name
 # to initialize arrays in assignments (assign myarr = site.empty_array)
 # (easier to grok than assign myarr = '' | split',')
 empty_array: []
