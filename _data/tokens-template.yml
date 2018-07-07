@@ -15,12 +15,12 @@ captchascript: /mailcaptcha.php
 # If you're using something other than the mailtome.php script, be sure to also
 # edit the /pages/contacts.html file and change/remove the captcha mechanism, too.
 # If using mailtome.php, set these, too:
-fromaddy: <the email address from which you're forwarding the user's form data>
-toaddy: <your email address>
+fromaddy: paul@paulcheng.london
+toaddy: paul@paulcheng.london
 
 # If you want to use the "Cool tunes" link on the /pages/contact-success.html page
 # set this:
-spotifyurl: <some playlist, doesn't have to be spotify>
+# spotifyurl: <some playlist, doesn't have to be spotify>
 
 # If you've added more vendor contributions that are only applicable to
 # posts on your specific site, you can add to the "credits" list here,
