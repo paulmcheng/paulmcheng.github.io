@@ -2,7 +2,7 @@
 priority: 0.6
 title: Software development
 excerpt: Full development lifecycle in C#, WPF, MVVM, SQL, R, VBA 
-categories: works
+categories: experience
 background-image: works-sample.png
 tags:
   - C#
@@ -21,5 +21,5 @@ tags:
 
 #### Results
 
-- Improved software quality with test driven development with full test coverage on critical area. 
-- Reduce the time to deliver IT solutions to the market from months into days. 
+- Improved software quality with test driven development with full test coverage on critical areas. 
+- Reduce the time in delivering IT solutions and enhancement to the market from months into days. 
