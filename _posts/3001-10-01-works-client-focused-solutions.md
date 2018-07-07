@@ -6,7 +6,7 @@ categories: works
 background-image: works-sample.png
 tags:
   - client-focus
-  - fast-delivery
+  - product-delivery
   - market-awareness
 ---
 

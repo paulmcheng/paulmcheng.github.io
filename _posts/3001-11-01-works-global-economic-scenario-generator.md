@@ -12,8 +12,8 @@ tags:
 
 #### Summary
 
-- Delivered improvement in the current Assets and Liabilities Modelling (ALM) software to integrate with the new Economic Scenario Generator (ESG) system
-- identifying the scope of the projects, integration planning, update adapting process to work with different systems environment. 
+- Deliver improvement in the current Assets and Liabilities Modelling (ALM) software to integrate with the new Economic Scenario Generator (ESG) system
+- identify the scope of the projects, integration planning, update adapting process to work with different systems environment. 
 
 #### Business results
 - This resulted in maximize consulting opportunities in wider asset universe and overseas markets.

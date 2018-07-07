@@ -6,7 +6,7 @@ categories: works
 background-image: works-sample.png
 tags:
   - automation
-  - monitoring
+  - data-feeds
   - auto-alerts
 ---
 
