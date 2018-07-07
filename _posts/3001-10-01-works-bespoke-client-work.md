@@ -1,6 +1,6 @@
 ---
 priority: 0.7
-title: clients focused solutions 
+title: Client focused solutions 
 excerpt: Improved integrated delivery and advice 
 categories: works
 background-image: works-sample.png

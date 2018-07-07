@@ -6,17 +6,17 @@ categories: experience
 background-image: works-sample.png
 tags: featured
 tags:
-  - Agile
-  - Scrum
-  - Leadership
-  - Communication
-  - Roadmap-design
+  - agile
+  - scrum
+  - leadership
+  - communication
+  - roadmap-design
 ---
 
 #### Experience 
 
 - TBC
 
-#### Results
+#### Business results
 
 - TBC

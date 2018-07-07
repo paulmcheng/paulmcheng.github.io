@@ -1,6 +1,6 @@
 ---
 priority: 0.7
-title: Global Economic Scenario Generator (ESG) 
+title: Global Economic Scenario Generator
 excerpt: Provide solutions to expand our business to the global markets
 categories: works
 background-image: works-sample.png

@@ -1,8 +1,8 @@
 ---
 priority: 0.6
-title: Software development
+title: Financial software development
 excerpt: Full development lifecycle in C#, WPF, MVVM, SQL, R, VBA 
-categories: experience
+categories: interests
 background-image: works-sample.png
 tags:
   - C#
