@@ -4,6 +4,7 @@ title: Project management
 excerpt: TBC
 categories: experience
 background-image: works-sample.png
+tags: featured
 tags:
   - Agile
   - Scrum

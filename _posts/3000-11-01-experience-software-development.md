@@ -21,5 +21,5 @@ tags:
 
 #### Results
 
-- Improved software quality with test driven development with full test coverage on critical areas. 
-- Reduce the time in delivering IT solutions and enhancement to the market from months into days. 
+- Increased software quality with test driven development with full test coverage on critical areas. 
+- Improved the time in delivering IT solutions and enhancement to the market from months into days. 
