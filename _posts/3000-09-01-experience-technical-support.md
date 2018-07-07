@@ -18,4 +18,4 @@ tags:
 
 #### Business results
 
-- 	Provided professional technical support to end user including actuaries and investment consultants by email, phone and in person from across the UK offices. 
+- Provided professional technical support to end user including actuaries and investment consultants by email, phone and in person from across the UK offices. 
