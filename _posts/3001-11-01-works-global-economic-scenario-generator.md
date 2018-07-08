@@ -1,7 +1,7 @@
 ---
 priority: 0.7
 title: Global Economic Scenario Generator
-excerpt: Help to expand business to the global markets
+excerpt: Help expand business to the global markets
 categories: works
 background-image: works-sample.png
 tags:
