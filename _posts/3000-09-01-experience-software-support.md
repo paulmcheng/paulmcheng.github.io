@@ -1,5 +1,5 @@
 ---
-priority: 0.7
+priority: 0.2
 title: Software support
 excerpt: Technical and user support
 categories: interests
