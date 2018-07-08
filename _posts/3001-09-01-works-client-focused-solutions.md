@@ -23,5 +23,5 @@ Aon, London, UK (Aug 2008 – Mar 2018)
 #### Business results
 - The bespoke investment and risk management project has been successfully delivered within the timescale.  
 - This has improved our process to better match the client’s needs.
-- Increase our competitiveness in the markets.  
+- Increase business competitiveness in the markets.  
 - The service has been used by over 30+ corporate clients in a year since launch and are keep onboarding more...
