@@ -16,4 +16,4 @@ tags:
 #### Business results
 
 - Solutions delivered to provide flexible and easy to use exporting tools for reporting.
-- This tool has became part of the standard checking process for every setup. 
+- This tool has became part of the standard checking process for every client setup. 

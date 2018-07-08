@@ -1,7 +1,7 @@
 ---
 priority: 0.7
 title: Global Economic Scenario Generator
-excerpt: Provide solutions to expand our business to the global markets
+excerpt: Help to expand business to the global markets
 categories: works
 background-image: works-sample.png
 tags:
@@ -11,12 +11,12 @@ tags:
 ---
 
 #### Company 
-Aon, London, UK (Aug 2008 – Apr 2018) 
+Aon, London, UK (Aug 2008 – Mar 2018) 
 
 #### Summary
 
-- Deliver improvement in the current Assets and Liabilities Modelling (ALM) software to integrate with the new Economic Scenario Generator (ESG) system
-- identify the scope of the projects, integration planning, update adapting process to work with different systems environment. 
+- Improvement delivered to the existing Assets and Liabilities Modelling (ALM) software to integrate with the new Economic Scenario Generator (ESG) system.
+- Identified the scope of the projects, integration planning, update adapting process to work with different systems environment. 
 
 #### Business results
 - This resulted in maximize consulting opportunities in wider asset universe and overseas markets.

@@ -1,7 +1,7 @@
 ---
 priority: 0.7
 title: Project management
-excerpt: Define project scope and drive projects forward
+excerpt: Define scope and drive projects forward
 categories: experience
 background-image: works-sample.png
 tags: featured

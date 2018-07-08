@@ -1,7 +1,7 @@
 ---
 priority: 0.7
 title: Automation system design
-excerpt: For monitoring clients’ daily funding position
+excerpt: Improved efficiency in monitoring clients’ daily funding position
 categories: works
 background-image: works-sample.png
 tags:
@@ -11,12 +11,12 @@ tags:
 ---
 
 #### Company 
-Aon, London, UK (Aug 2008 – Apr 2018)
+Aon, London, UK (Aug 2008 – Mar 2018)
 
 #### Summary
 
-- Leading team projects in automation system for monitoring clients’ daily funding position. 
-- There are two projects written in C# .net and Matlab, where I took a key role from planning to implementation, allocate work and manage timescale with various teams, and integrate it with our in house valuation system. 
+- Managed team projects in automation system for monitoring clients’ daily funding position. 
+- There were two different projects in C# .net and Matlab sending valuation and market data to the servers in client portal. I took a key role from planning to implementation, allocate work and manage timescale with various teams, and integrate it with our in house valuation system. 
 
 #### Business results
 - This has successfully used for over 300+ clients with over £ billion of assets under management.

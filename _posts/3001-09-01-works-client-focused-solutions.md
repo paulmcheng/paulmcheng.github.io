@@ -1,7 +1,7 @@
 ---
 priority: 0.7
 title: Client focused solutions 
-excerpt: Improved integrated delivery and advice 
+excerpt: Integrated delivery and advice service
 categories: works
 background-image: works-sample.png
 tags:
@@ -11,13 +11,13 @@ tags:
 ---
 
 #### Company 
-Aon, London, UK (Aug 2008 – Apr 2018) 
+Aon, London, UK (Aug 2008 – Mar 2018) 
 
 #### Summary
 
 - I am involved in leading projects in full software development cycle using different technologies, such as C# and WPF, from ideas to working solutions.
 - Responsible to manage and deliver client focused development projects.
-- One of my project is to improve our process and provide better bespoke investment and risk management solutions to fit the requirements of our corporate clients.  
+- One of my project was to improve our process and provide better bespoke investment and risk management solutions to fit the requirements of our corporate clients.  
 - Organise meeting and taking feedback from different stakeholders.  
 
 #### Business results

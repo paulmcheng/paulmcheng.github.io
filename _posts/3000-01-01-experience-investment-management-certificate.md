@@ -1,7 +1,7 @@
 ---
 priority: 0.3
 title: Investment Management Certificate
-excerpt: Obtained
+excerpt: Obtained (July 2010)
 categories: interests
 background-image: works-sample.png
 tags:
