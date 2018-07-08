@@ -2,9 +2,8 @@
 priority: 0.7
 title: Project management
 excerpt: Define scope and drive projects forward
-categories: 
-  - interests
-  - topics
+categories: interests
+
 background-image: works-sample.png
 tags: featured
 tags:
