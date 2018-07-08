@@ -15,10 +15,10 @@ tags:
 
 #### Experience 
 
-- Execute stochastic asset and liability modelling and continuously improve the code to meet the technical specifications defined by business analysts.
-- Enhance the risk assessment tools in developing investment solutions under possible economic conditions.
-- Review and optimise the stability and performance of the software in processing a large set of scenarios on a range of investment strategies.
-- Produce detailed testing reports to ensure software is fully tested with unit testing, and user acceptance testing. 
+- Involved in stochastic asset and liability modelling and continuously improve the code to meet the technical specifications defined by business analysts.
+- Enhanced the risk assessment tools in developing investment solutions under possible economic conditions.
+- Reviewed and optimised the stability and performance of the software in processing a large set of scenarios on a range of investment strategies.
+- Established automatic testing to ensure software is fully tested with unit testing, integration tetsing, regression testing, and user acceptance testing. 
 
 #### Results
 

@@ -11,7 +11,7 @@ tags:
 ---
 
 #### Company 
-Aon, London, UK (Aug 2008 – Apr 2018)
+Aon, London, UK (Aug 2008 – Apr 2018) 
 
 #### Summary
 

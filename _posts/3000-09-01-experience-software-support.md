@@ -1,6 +1,6 @@
 ---
 priority: 0.7
-title: Product operation
+title: Software support
 excerpt: Technical and user support
 categories: interests
 background-image: works-sample.png
@@ -13,9 +13,9 @@ tags:
 
 #### Experience 
 
-- Managed the technical and business support teams for our in-house financial risk modelling software. 
-- It was deployed on over 100 pension schemes in the UK and Europe.
+- Managed software support for an in-house financial risk modelling software on over 100 pension schemes in the UK and Europe.
+- Managed both the technical and business teams to support normal operation of the system. 
 
-#### Business results
+#### Results
 
-- Provided professional technical support to end user including actuaries and investment consultants by email, phone and in person from across the UK offices. 
+- Provided professional technical support to end user including actuaries and investment consultants by email, phone and in person from across the UK and overseas offices. 
