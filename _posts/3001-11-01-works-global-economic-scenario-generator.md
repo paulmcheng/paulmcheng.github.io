@@ -10,6 +10,9 @@ tags:
   - revenue-growth
 ---
 
+#### Company 
+Aon, London, UK (Aug 2008 – Apr 2018)
+
 #### Summary
 
 - Deliver improvement in the current Assets and Liabilities Modelling (ALM) software to integrate with the new Economic Scenario Generator (ESG) system
