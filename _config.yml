@@ -12,7 +12,7 @@
 
 # Site settings
 title: Paul Cheng
-description: Analyst Developer at ICBC Standard Bank
+description: ALM Software Consultant at AXA
 owner:
   name: Paul Cheng # or company name
   url: "http://www.paulcheng.co.uk" # your URL
@@ -29,7 +29,7 @@ lang: en-us # used in HTML lang attributes
 # - set the greeting only if you want to display the first green section
 greeting:
   title: About me
-  text: I have both development and operation experience in managing risk and control of the large scale IT systems, which involved in end to end Change the Bank projects delivery, Run the Bank control framework, infrastructure and operation improvement. I work fully with technical and business teams in the bank on delivering high quality IT solutions.
+  text: I have both development and operation experience in managing risk and control of the large scale software systems, which involved in design and improve the IT framework, infrastructure and operation model. I work fully with technical and business teams to deliver high quality IT solutions.
 # - displayed at the bottom
 closing-head: Thank you for visiting
 closing-para: Feel free to drop me a line if you have any question. 
